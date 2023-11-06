@@ -1,0 +1,35 @@
+public String weekday1(int day) {
+switch (day) {
+case 1: return "Monday";
+case 2: return "Tuesday";
+case 3: return "Wednesday";
+case 4: return "Thursday";
+case 5: return "Friday";
+case 6: return "Saturday";
+case 7: return "Sunday";
+default: throw new InvalidOperationException("day must be in range 1 to 7"); } }
+
+Хорошая читаемость: Код читается последовательно и понятно, что делает каждый случай. Это может облегчить отладку и поддержку.
+Стандартный подход: Конструкция switch часто используется в таких сценариях, как простая проверка перечислений.
+
+public String weekday2(int day) {
+ if ((day < 1) || (day > 7))
+ throw new InvalidOperationException("day must be in range 1 to 7");
+
+string[] days = {
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+};
+
+return days[day - 1];
+}
+
+Хорошая читаемость: Код читается последовательно и понятно, что делает каждый случай. Это может облегчить отладку и поддержку.
+Маштабированность: Массив легко расширяется или уменьшается
+Меньше повторяющегося кода
+ 2 способ проще и по моему мнению он лучше, но это просто мое мнение))))))))

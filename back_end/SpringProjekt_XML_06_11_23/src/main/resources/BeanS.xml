@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="student" class="ait.de.model.Student" scope="prototype">
+        <constructor-arg type="java.lang.Long" value="1"/>
+        <constructor-arg type="java.lang.String" value="John"/>
+        <constructor-arg type="java.lang.String" value="Doe"/>
+        <constructor-arg type="int" value="20"/>
+        <constructor-arg type="java.lang.String" value="Computer Science"/>
+        <constructor-arg type="java.lang.String" value="Cohort 2023"/>
+    </bean>
+
+</beans>
