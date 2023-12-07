@@ -1,12 +1,16 @@
 package ait.de.shop_01_12.dto.product;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
 
-@Data
-@AllArgsConstructor
-public class ManufacturerDTO {
-    private Integer id;
-    private String name;
-    private String country;
+import io.swagger.v3.oas.annotations.media.Schema;
+
+@Schema(name = "Manufacturer", description = "Manufacturer data")
+
+public class ManufacturerDto {
+    @Schema(description = "Manufacturer identifier", example = "1")
+    Integer id;
+    @Schema(description = "Name of the manufacturer", example = "Apple")
+    String name;
+
+    @Schema(description = "Country of the manufacturer", example = "USA")
+    String country;
 }

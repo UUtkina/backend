@@ -1,11 +1,11 @@
 package ait.de.shop_01_12.dto.product;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import io.swagger.v3.oas.annotations.media.Schema;
 
-@Data
-@AllArgsConstructor
-public class CategoryDTO {
-    private Integer id;
-    private String categoryName;
+@Schema(name = "Category", description = "Category data")
+public class CategoryDto {
+    @Schema(description = "Category identifier", example = "1")
+    Integer id;
+    @Schema(description = "Name of the Category", example = "smartphones")
+    String categoryName;
 }
