@@ -4,7 +4,10 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
 import org.demointernetshop.dto.cart.CartDto;
+import org.demointernetshop.dto.order.OrderDto;
 import org.demointernetshop.dto.product.*;
+import org.demointernetshop.dto.user.UserDto;
+import org.demointernetshop.dto.user.UserRegistrationDto;
 import org.demointernetshop.entity.*;
 import org.springframework.stereotype.Service;
 
@@ -27,7 +30,7 @@ public class Converters {
         cartDto.setUserId(cart.getUser().getId());
 
         List<ProductShortInfoDto> productShortInfoDtos = new ArrayList<>();
-        for (CartItem cartItem : cart.getCartItems()){
+        for (CartItem cartItem : cart.getCartItems()) {
             Product product = cartItem.getProduct();
             ProductShortInfoDto productShortInfoDto = new ProductShortInfoDto();
             productShortInfoDto.setId(product.getId());
@@ -72,6 +75,48 @@ public class Converters {
                 .description(product.getDescription())
                 .category(formCategoryToDto(product.getCategory()))
                 .manufacturer(fromManufacturerToDto(product.getManufacturer()))
+                .build();
+    }
+
+    public OrderDto convertToOrderDto(Order order, Integer userId, List<ProductShortInfoDto> productDtos) {
+        return new OrderDto(
+                order.getId(),
+                userId,
+                productDtos,
+                order.getOrderStatus().getStatus(),
+                order.getPaymentStatus().getStatus(),
+                order.getPaymentMethod().getMethod(),
+                order.getCreateData()
+        );
+    }
+
+    public User fromDto(UserRegistrationDto userRegistrationDto) {
+        User newUser = new User();
+        if (userRegistrationDto.getEmail() != null) {
+            newUser.setEmail(userRegistrationDto.getEmail());
+        }
+        if (userRegistrationDto.getPassword() != null) {
+            newUser.setPassword(userRegistrationDto.getPassword());
+        }
+        if (userRegistrationDto.getUsername() != null) {
+            newUser.setUsername(userRegistrationDto.getUsername());
+        }
+        if (userRegistrationDto.getPhone() != null) {
+            newUser.setPhone(userRegistrationDto.getPhone());
+        }
+        return newUser;
+
+    }
+
+    public static UserDto from(User user) {
+        return UserDto.builder()
+                .id(user.getId())
+                .username(user.getUsername())
+                .role(user.getRole().getName().toString())
+                .email(user.getEmail())
+                .phone(user.getPhone())
+                .createData(user.getCreateData())
+                .lastVisitData(user.getLastVisitData())
                 .build();
     }
 

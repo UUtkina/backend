@@ -22,7 +22,7 @@ public class OrderController {
 
     @DeleteMapping("{order_id}")
     public void deleteOrder(@PathVariable("order_id") Integer orderId){
-        return orderService.deleteOrder(orderId);
+        orderService.deleteOrder(orderId);
     }
 
 

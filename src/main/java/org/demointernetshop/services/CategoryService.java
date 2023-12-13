@@ -62,4 +62,7 @@ public class CategoryService {
                 .orElseThrow(() -> new RuntimeException("Category not found or no products in the category"));
 
     }
+    public List<CategoryWithPricesDto> getPriceBoundsByAllCategories() {
+        return productInfoRepository.findPriceBoundsByAllCategories();
+    }
 }

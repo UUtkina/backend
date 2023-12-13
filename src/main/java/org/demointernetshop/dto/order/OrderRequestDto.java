@@ -19,4 +19,6 @@ public class OrderRequestDto {
     private Integer userId;
     @Schema(description = "Products")
     private List<ProductShortInfoDto> products;
+    @Schema(description = "PaymentMethod", example = "14")
+    private Integer paymentMethodId ;
 }
