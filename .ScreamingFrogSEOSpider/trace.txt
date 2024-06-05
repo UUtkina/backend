@@ -1,0 +1,437 @@
+2022-07-27 19:13:25,844 [main] INFO  - Application Started
+2022-07-27 19:13:25,846 [main] INFO  - Persistent config file does not exist, C:\Users\badah\.ScreamingFrogSEOSpider\spider.config
+2022-07-27 19:13:25,880 [main] INFO  - Look and feel: [The Java(tm) Look and Feel - javax.swing.plaf.metal.MetalLookAndFeel]
+2022-07-27 19:13:25,881 [main] INFO  - Licence file location is: C:\Users\badah\.ScreamingFrogSEOSpider\licence.txt
+2022-07-27 19:13:26,051 [main] INFO  - Java FX available by default - graphs will be displayed
+2022-07-27 19:13:26,059 [main] INFO  - Running: Screaming Frog SEO Spider 5.1
+2022-07-27 19:13:26,059 [main] INFO  - Build: 8d0c2bebb023f09c6375415514a7668c75ea10c1
+2022-07-27 19:13:26,059 [main] INFO  - Platform Info: Name 'Windows 10' Version '10.0' Arch 'amd64'
+2022-07-27 19:13:26,059 [main] INFO  - Java Info: Vendor 'Oracle Corporation' URL 'http://java.oracle.com/' Version '1.8.0_341' Home 'C:\Program Files\Java\jre1.8.0_341'
+2022-07-27 19:13:26,061 [main] INFO  - Log File: C:\Users\badah\.ScreamingFrogSEOSpider\trace.txt
+2022-07-27 19:13:26,061 [main] INFO  - Fatal Log File: C:\Users\badah\.ScreamingFrogSEOSpider\crash.txt
+2022-07-27 19:13:26,061 [main] INFO  - Logging Status: OK
+2022-07-27 19:13:26,061 [main] INFO  - Memory: Used 16MB Free 219 MB Total 236MB Max 455 MB Using 3%
+2022-07-27 19:13:26,062 [main] INFO  - Licence File: C:\Users\badah\.ScreamingFrogSEOSpider\licence.txt
+2022-07-27 19:13:26,062 [main] INFO  - Licence file location is: C:\Users\badah\.ScreamingFrogSEOSpider\licence.txt
+2022-07-27 19:13:26,067 [main] INFO  - Licence Status: invalid
+2022-07-27 19:13:26,068 [main] INFO  - Locale: uk_UA
+2022-07-27 19:13:26,941 [AWT-EventQueue-0] INFO  - Switching to view: Spider
+2022-07-27 19:13:26,987 [AWT-EventQueue-0] INFO  - EDT latency of 391 > 80 ms, slowing down
+2022-07-27 19:13:27,182 [AWT-EventQueue-0] INFO  - Setting tab Internal to display filter All
+2022-07-27 19:13:27,184 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:27,370 [AWT-EventQueue-0] INFO  - Arial font found on system, selected as Arial font
+2022-07-27 19:13:27,371 [AWT-EventQueue-0] INFO  - User has not yet accepted the EULA.
+2022-07-27 19:13:27,612 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:13:30,682 [AWT-EventQueue-0] INFO  - User accepted the licence agreement.
+2022-07-27 19:13:30,683 [AWT-EventQueue-0] INFO  - Running Lite version
+2022-07-27 19:13:30,684 [AWT-EventQueue-0] INFO  - Started with 0 arguments
+2022-07-27 19:13:30,686 [AWT-EventQueue-0] INFO  - Started with following options:
+2022-07-27 19:13:31,061 [UpdateChecker 1] WARN  - Response wasn't a double, response '<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+' java.lang.NumberFormatException: For input string: "<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>"
+2022-07-27 19:13:45,995 [AWT-EventQueue-0] INFO  - Resetting tab Internal to display filter All
+2022-07-27 19:13:45,997 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:45,997 [AWT-EventQueue-0] INFO  - Resetting tab External to display filter All
+2022-07-27 19:13:45,999 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:45,999 [AWT-EventQueue-0] INFO  - Setting tab External to display filter All
+2022-07-27 19:13:46,000 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,000 [AWT-EventQueue-0] INFO  - Resetting tab Protocol to display filter All
+2022-07-27 19:13:46,001 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,002 [AWT-EventQueue-0] INFO  - Setting tab Protocol to display filter All
+2022-07-27 19:13:46,003 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,003 [AWT-EventQueue-0] INFO  - Resetting tab Response Codes to display filter All
+2022-07-27 19:13:46,004 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,004 [AWT-EventQueue-0] INFO  - Setting tab Response Codes to display filter All
+2022-07-27 19:13:46,005 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,005 [AWT-EventQueue-0] INFO  - Resetting tab URI to display filter All
+2022-07-27 19:13:46,006 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,006 [AWT-EventQueue-0] INFO  - Setting tab URI to display filter All
+2022-07-27 19:13:46,007 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,007 [AWT-EventQueue-0] INFO  - Resetting tab Page Titles to display filter All
+2022-07-27 19:13:46,008 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,008 [AWT-EventQueue-0] INFO  - Setting tab Page Titles to display filter All
+2022-07-27 19:13:46,009 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,009 [AWT-EventQueue-0] INFO  - Resetting tab Meta Description to display filter All
+2022-07-27 19:13:46,010 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,011 [AWT-EventQueue-0] INFO  - Setting tab Meta Description to display filter All
+2022-07-27 19:13:46,011 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,012 [AWT-EventQueue-0] INFO  - Resetting tab Meta Keywords to display filter All
+2022-07-27 19:13:46,013 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,013 [AWT-EventQueue-0] INFO  - Setting tab Meta Keywords to display filter All
+2022-07-27 19:13:46,014 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,014 [AWT-EventQueue-0] INFO  - Resetting tab H1 to display filter All
+2022-07-27 19:13:46,015 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,016 [AWT-EventQueue-0] INFO  - Setting tab H1 to display filter All
+2022-07-27 19:13:46,016 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,016 [AWT-EventQueue-0] INFO  - Resetting tab H2 to display filter All
+2022-07-27 19:13:46,017 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,018 [AWT-EventQueue-0] INFO  - Setting tab H2 to display filter All
+2022-07-27 19:13:46,018 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,019 [AWT-EventQueue-0] INFO  - Resetting tab Images to display filter All
+2022-07-27 19:13:46,019 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,020 [AWT-EventQueue-0] INFO  - Setting tab Images to display filter All
+2022-07-27 19:13:46,020 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,021 [AWT-EventQueue-0] INFO  - Resetting tab Directives to display filter All
+2022-07-27 19:13:46,022 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,022 [AWT-EventQueue-0] INFO  - Setting tab Directives to display filter All
+2022-07-27 19:13:46,023 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,023 [AWT-EventQueue-0] INFO  - Resetting tab AJAX to display filter All
+2022-07-27 19:13:46,023 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,024 [AWT-EventQueue-0] INFO  - Setting tab AJAX to display filter All
+2022-07-27 19:13:46,025 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,025 [AWT-EventQueue-0] INFO  - Resetting tab Custom to display filter Filter 1
+2022-07-27 19:13:46,026 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,026 [AWT-EventQueue-0] INFO  - Setting tab Custom to display filter Filter 1
+2022-07-27 19:13:46,027 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,027 [AWT-EventQueue-0] INFO  - Resetting tab Analytics to display filter All
+2022-07-27 19:13:46,028 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,028 [AWT-EventQueue-0] INFO  - Setting tab Analytics to display filter All
+2022-07-27 19:13:46,028 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,029 [AWT-EventQueue-0] INFO  - Resetting tab Search Console to display filter All
+2022-07-27 19:13:46,029 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,030 [AWT-EventQueue-0] INFO  - Setting tab Search Console to display filter All
+2022-07-27 19:13:46,030 [AWT-EventQueue-0] INFO  - text commited: false
+2022-07-27 19:13:46,043 [SpiderMain 1] INFO  - Starting to spider https://patterns.bootstrapfashion.com/
+2022-07-27 19:13:46,045 [SpiderMain 1] INFO  - Config SpiderConfig [mPersistableState=SpiderConfigPersistableState [
+CrawlConfig=SpiderCrawlConfig [
+mCheckImages=true
+mCheckCSS=true
+mCheckJavaScript=true
+mCheckExternalLinks=true
+mFollowInternalNoFollow=false
+mfollowExternalNoFollow=false
+mIgnoreRobots=false
+mLimitSearchTotal=true
+mSearchTotalLimit=500
+mLimitSearchDepth=false
+mSearchDepthLimit=0
+mMaxThreads=5
+mCheckSWF=true
+mAllowCookies=false
+mResponseTimeoutInSeconds=20
+mRequestAuthentication=true
+max5xxRetries=0
+mPauseOnHighMemoryUsage=true
+mAlwaysFollowRedirects=false
+mRespectNoindex=false
+mRespectCanonical=false
+mMaxRedirects=5
+mLimitMaxURLLength=false
+mMaxURLLength=115
+mLimitMaxFolderDepth=false
+mMaxFolderDepth=5
+mLimitMaxNumQueryStrings=false
+mMaxNumQueryStrings=5
+mCrawlCanonicals=true
+mShowInternalBlockedByRobots=true
+mShowExternalBlockedByRobots=false]
+mExcludeManger=SpiderConfigExcludeManager []
+mCustomConfig=SpiderCustomConfig [
+[0]SpiderCustomFilter [mMode=Contains, mText=]
+[1]SpiderCustomFilter [mMode=Contains, mText=]
+[2]SpiderCustomFilter [mMode=Contains, mText=]
+[3]SpiderCustomFilter [mMode=Contains, mText=]
+[4]SpiderCustomFilter [mMode=Contains, mText=]
+[5]SpiderCustomFilter [mMode=Contains, mText=]
+[6]SpiderCustomFilter [mMode=Contains, mText=]
+[7]SpiderCustomFilter [mMode=Contains, mText=]
+[8]SpiderCustomFilter [mMode=Contains, mText=]
+[9]SpiderCustomFilter [mMode=Contains, mText=]]
+mInternalURLConfig= SpiderInternalURLConfig [mSearchAllSubdomains=false, mCrawlOutsideStartFolder=false, mRawInternalString=
+
+, mInternalRegexes=]
+mUserAgentConfig=SpiderUserAgentConfig [mUserAgent=Screaming Frog SEO Spider/5.1, mRobotsUserAgent=Screaming Frog SEO Spider]
+mPerformanceConfig= SpiderPerformanceConfig [mLimitPerformance=false, mUrlRequestsPerSecond=2.0]
+mUrlReWritingConfig= SpiderURLReWritingConfig [
+mConvertToLowercase=false
+mRegexRules=
+mRemoveParameters=]
+mFilterWaterMarksConfig= SpiderFilterWatermarkConfig [
+mTitleMinPixels=200
+mTitleMaxPixels=482
+mTitleMinCharacters=30
+mTitleMaxCharacters=65
+mDescriptionMinPixels=400
+mDescriptionMaxPixels=928
+mDescriptionMinCharacters=70
+mDescriptionMaxCharacters=156
+mUriMaxCharacters=115
+mH1MaxCharacters=70
+mH2MaxCharacters=70
+mImageMaxSizeKiloBytes=100
+mImageAltTextMaxCharacters=100]
+mCustomExtractionConfig= 
+[0] CustomExtractionInfo [mName=Extractor 1, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[1] CustomExtractionInfo [mName=Extractor 2, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[2] CustomExtractionInfo [mName=Extractor 3, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[3] CustomExtractionInfo [mName=Extractor 4, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[4] CustomExtractionInfo [mName=Extractor 5, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[5] CustomExtractionInfo [mName=Extractor 6, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[6] CustomExtractionInfo [mName=Extractor 7, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[7] CustomExtractionInfo [mName=Extractor 8, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[8] CustomExtractionInfo [mName=Extractor 9, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+[9] CustomExtractionInfo [mName=Extractor 10, mExtractionType=Inactive, mDataType=Extract Inner HTML, mExpression=, mAttribute=]
+mGAConfig= SpiderGAConfig [
+mStartDate=2022-06-26
+mEndDate=2022-07-26
+mIgnoreUrlTrailingSlash=true
+mIgnoreUrlCase=false
+mLimitMaxResults=true
+mMaxResults=100 000
+mUserSelectedMetrics=[ga:sessions,ga:percentNewSessions,ga:newUsers,ga:bounceRate,ga:pageViewsPerSession,ga:avgSessionDuration,ga:pageValue,ga:goalConversionRateAll,ga:goalCompletionsAll,ga:goalValueAll,]
+mUserSelectedDimensions=[(ga:sessions->ga:landingPagePath),(ga:percentNewSessions->ga:landingPagePath),(ga:newUsers->ga:landingPagePath),(ga:bounceRate->ga:landingPagePath),(ga:pageViewsPerSession->ga:landingPagePath),(ga:avgSessionDuration->ga:landingPagePath),(ga:goalConversionRateAll->ga:landingPagePath),(ga:goalCompletionsAll->ga:landingPagePath),(ga:goalValueAll->ga:landingPagePath),(ga:goal1Completions->ga:landingPagePath),(ga:goal2Completions->ga:landingPagePath),(ga:goal3Completions->ga:landingPagePath),(ga:goal4Completions->ga:landingPagePath),(ga:goal5Completions->ga:landingPagePath),(ga:goal6Completions->ga:landingPagePath),(ga:goal7Completions->ga:landingPagePath),(ga:goal8Completions->ga:landingPagePath),(ga:goal9Completions->ga:landingPagePath),(ga:goal10Completions->ga:landingPagePath),(ga:goal11Completions->ga:landingPagePath),(ga:goal12Completions->ga:landingPagePath),(ga:goal13Completions->ga:landingPagePath),(ga:goal14Completions->ga:landingPagePath),(ga:goal15Completions->ga:landingPagePath),(ga:goal16Completions->ga:landingPagePath),(ga:goal17Completions->ga:landingPagePath),(ga:goal18Completions->ga:landingPagePath),(ga:goal19Completions->ga:landingPagePath),(ga:goal20Completions->ga:landingPagePath),(ga:goal1Value->ga:landingPagePath),(ga:goal2Value->ga:landingPagePath),(ga:goal3Value->ga:landingPagePath),(ga:goal4Value->ga:landingPagePath),(ga:goal5Value->ga:landingPagePath),(ga:goal6Value->ga:landingPagePath),(ga:goal7Value->ga:landingPagePath),(ga:goal8Value->ga:landingPagePath),(ga:goal9Value->ga:landingPagePath),(ga:goal10Value->ga:landingPagePath),(ga:goal11Value->ga:landingPagePath),(ga:goal12Value->ga:landingPagePath),(ga:goal13Value->ga:landingPagePath),(ga:goal14Value->ga:landingPagePath),(ga:goal15Value->ga:landingPagePath),(ga:goal16Value->ga:landingPagePath),(ga:goal17Value->ga:landingPagePath),(ga:goal18Value->ga:landingPagePath),(ga:goal19Value->ga:landingPagePath),(ga:goal20Value->ga:landingPagePath),(ga:goal1ConversionRate->ga:landingPagePath),(ga:goal2ConversionRate->ga:landingPagePath),(ga:goal3ConversionRate->ga:landingPagePath),(ga:goal4ConversionRate->ga:landingPagePath),(ga:goal5ConversionRate->ga:landingPagePath),(ga:goal6ConversionRate->ga:landingPagePath),(ga:goal7ConversionRate->ga:landingPagePath),(ga:goal8ConversionRate->ga:landingPagePath),(ga:goal9ConversionRate->ga:landingPagePath),(ga:goal10ConversionRate->ga:landingPagePath),(ga:goal11ConversionRate->ga:landingPagePath),(ga:goal12ConversionRate->ga:landingPagePath),(ga:goal13ConversionRate->ga:landingPagePath),(ga:goal14ConversionRate->ga:landingPagePath),(ga:goal15ConversionRate->ga:landingPagePath),(ga:goal16ConversionRate->ga:landingPagePath),(ga:goal17ConversionRate->ga:landingPagePath),(ga:goal18ConversionRate->ga:landingPagePath),(ga:goal19ConversionRate->ga:landingPagePath),(ga:goal20ConversionRate->ga:landingPagePath),(ga:pageViews->ga:pagePath),(ga:uniquePageviews->ga:pagePath),(ga:avgTimeOnPage->ga:pagePath),(ga:entrances->ga:pagePath),(ga:entranceRate->ga:pagePath),(ga:exits->ga:pagePath),(ga:exitRate->ga:pagePath),(ga:pageValue->ga:landingPagePath),(ga:transactions->ga:landingPagePath),(ga:transactionRevenue->ga:landingPagePath),(ga:revenuePerTransaction->ga:landingPagePath),(ga:impressions->ga:adDestinationUrl),(ga:adClicks->ga:adDestinationUrl),(ga:adCost->ga:adDestinationUrl),(ga:CPM->ga:adDestinationUrl),(ga:CPC->ga:adDestinationUrl),(ga:CTR->ga:adDestinationUrl),(ga:costPerTransaction->ga:adDestinationUrl),(ga:costPerGoalConversion->ga:adDestinationUrl),(ga:costPerConversion->ga:adDestinationUrl),(ga:ROAS->ga:adDestinationUrl),(ga:avgPageLoadTime->ga:pagePath),(ga:avgRedirectionTime->ga:pagePath),(ga:avgServerResponseTime->ga:pagePath),(ga:avgPageDownloadTime->ga:pagePath),(ga:adsenseRevenue->ga:landingPagePath),(ga:adsenseAdUnitsViewed->ga:landingPagePath),(ga:adsenseAdsViewed->ga:landingPagePath),(ga:adsenseAdsClicks->ga:landingPagePath),(ga:adsensePageImpressions->ga:landingPagePath),(ga:adsenseExits->ga:landingPagePath),(ga:adsenseViewableImpressionPercent->ga:landingPagePath),(ga:adsenseCoverage->ga:landingPagePath),(ga:adsenseCTR->ga:landingPagePath),(ga:adsenseECPM->ga:landingPagePath),(ga:socialActivities->ga:socialActivityContentUrl),(ga:socialInteractions->ga:pagePath),]]
+mGSCConfig= SpiderGoogleSearchConsoleConfig [
+mDateRange=DateRangeConfig [
+mStartDate=2022-06-26
+mEndDate=2022-07-26]
+mGeneral=DefaultGeneralApiConfig [
+mIgnoreUrlTrailingSlash=true
+mIgnoreUrlCase=false
+mLimitMaxResults=true
+mMaxResults=5 000]
+mDevice=All
+mCountry=None]
+mAcceptLanguageHeaderConfig=AcceptLanguageHeaderConfig [mIsEnabled=false, mAcceptLanguageHeaderValue=en-gb]
+]
+mProxyConfig=SpiderProxyConfig [getAddress()=, getPort()=3128, isEnabled()=false]
+mFullVersionEnabled=false]
+2022-07-27 19:13:46,053 [GARequestMgr 1] INFO  - GARequestMgr.startRequestingGaData
+2022-07-27 19:13:46,053 [GSCRequestMgr 1] INFO  - GSCRequestMgr.startRequestingGscData
+2022-07-27 19:13:47,587 [RobotsWorker 1] INFO  - Downloaded robots file 'https://patterns.bootstrapfashion.com/robots.txt'
+2022-07-27 19:13:49,256 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/', reason 'Blocked by line 12: Disallow: https://patterns.bootstrapfashion.com/customer/account/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:13:53,535 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvd29tZW4vc2V3aW5nLXBhdHRlcm5zLWF0aGxlaXN1cmUuaHRtbD9fX19TSUQ9VSZkaXI9YXNjJm9yZGVyPW5hbWU,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:13:54,271 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvZmFicmljLXR5cGUvd292ZW4tZmFicmljLXdpdGgtZHJhcGUtbGlnaHQtd2VpZ2h0Lmh0bWw_X19fU0lEPVU,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:13:56,499 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvZmFicmljLXR5cGUvd292ZW4tZmFicmljcy13aXRoLXNwYW5kZXgtbWVkaXVtLXdlaWdodC5odG1sP19fX1NJRD1V/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:13:57,186 [RobotsWorker 1] INFO  - No robots file at 'https://tailornova.com/robots.txt' got response code: 404 Not Found
+2022-07-27 19:13:58,731 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvY2hpbGRyZW4vZ2lybHMuaHRtbD9fX19TSUQ9VQ,,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:03,774 [RobotsWorker 1] INFO  - Downloaded robots file 'https://www.facebook.com/robots.txt'
+2022-07-27 19:14:03,777 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://www.facebook.com/tr?id=699400537856424&ev=PageView&noscript=1', reason 'Blocked by line 311: Disallow: https://www.facebook.com/tr?'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:04,600 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9leGNsdXNpdmUtZGVzaWduZXItc2V3aW5nLXBhdHRlcm5zLmh0bWw_X19fU0lEPVU,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:10,095 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account', reason 'Blocked by line 11: Disallow: https://patterns.bootstrapfashion.com/customer/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:18,191 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/create/', reason 'Blocked by line 12: Disallow: https://patterns.bootstrapfashion.com/customer/account/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:24,514 [RobotsWorker 1] INFO  - No robots file at 'https://www.googletagmanager.com/robots.txt' got response code: 404 Not Found
+2022-07-27 19:14:24,716 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvY2hpbGRyZW4uaHRtbD9fX19TSUQ9VQ,,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:33,525 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS8_X19fU0lEPVU,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:35,771 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/checkout/', reason 'Blocked by line 9: Disallow: https://patterns.bootstrapfashion.com/checkout/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:40,430 [RobotsWorker 2] INFO  - Downloaded robots file 'https://fonts.googleapis.com/robots.txt'
+2022-07-27 19:14:40,764 [RobotsWorker 3] INFO  - No robots file at 'https://jsd-widget.atlassian.com/robots.txt' got response code: 403 Forbidden
+2022-07-27 19:14:44,192 [RobotsWorker 3] INFO  - Downloaded robots file 'https://www.tiktok.com/robots.txt'
+2022-07-27 19:14:44,794 [RobotsWorker 1] INFO  - No robots file at 'http://tailornova.com/robots.txt'
+2022-07-27 19:14:55,075 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/customer/account/login/referer/aHR0cHM6Ly9wYXR0ZXJucy5ib290c3RyYXBmYXNoaW9uLmNvbS9zZXdpbmctcGF0dGVybnMvd29tZW4vc2V3aW5nLXBhdHRlcm5zLWF0aGxlaXN1cmUuaHRtbD9fX19TSUQ9VQ,,/', reason 'Blocked by line 13: Disallow: https://patterns.bootstrapfashion.com/customer/account/login/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:14:56,766 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/checkout/onepage/', reason 'Blocked by line 9: Disallow: https://patterns.bootstrapfashion.com/checkout/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:15:04,835 [SpiderWorker 5] WARN  - SocketTimeoutException for url: 'http://tailornova.com/designer?utm_source=bsf&utm_medium=banner&utm_campaign=introducing&utm_content=category' reason: 'java.net.SocketTimeoutException: Read timed out'
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at seo.spider.spider.g.c(PageReader.java:188)
+	at seo.spider.spider.g.b(PageReader.java:132)
+	at seo.spider.spider.g.a(PageReader.java:37)
+	at seo.spider.spider.h.a(PageReader.java:72)
+	at seo.spider.k.f.a(TLSConnectionWorkAroundTemplate.java:19)
+	at seo.spider.spider.g.a(PageReader.java:66)
+	at seo.spider.spider.ap.run(SpiderTask.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2022-07-27 19:15:06,711 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://www.facebook.com/tr?id=646911178729594&ev=PageView&noscript=1', reason 'Blocked by line 311: Disallow: https://www.facebook.com/tr?'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:15:10,190 [RobotsMain 1] INFO  - robots.txt file prevented the spider of 'https://patterns.bootstrapfashion.com/checkout/cart/', reason 'Blocked by line 9: Disallow: https://patterns.bootstrapfashion.com/checkout/'. You can choose to ignore robots.txt files in the Spider configuration.
+2022-07-27 19:15:14,418 [SpiderMain 1] INFO  - GARequestMgr.isBusy ? false
+2022-07-27 19:15:14,419 [SpiderMain 1] INFO  - GSCRequestMgr.isBusy
+2022-07-27 19:15:14,419 [SpiderMain 1] INFO  - Completed the spider of https://patterns.bootstrapfashion.com/ in 0 hrs 1 mins 28 secs (88365), MemoryMonitor [mCurrentMemoryUsage=14%, mLastReadMemUsage=27%, mPeakUsage=27%] StringPool [size=6 438, mStats=StringPoolStats [mHits=272 743, mMisses=6 438, mMemorySavedBytes=7 848 237]]
+2022-07-27 19:15:14,419 [GARequestMgr 1] INFO  - GARequestMgr.spiderComplete
+2022-07-27 19:15:14,419 [GSCRequestMgr 1] INFO  - GSCRequestMgr.spiderComplete
+2022-07-27 19:16:18,139 [AWT-EventQueue-0] INFO  - User selected tab Analytics
+2022-07-27 19:16:38,975 [AWT-EventQueue-0] INFO  - User selected tab AJAX
+2022-07-27 19:16:42,078 [AWT-EventQueue-0] INFO  - User selected tab URI
+2022-07-27 19:31:27,274 [AWT-EventQueue-0] INFO  - User selected tab Page Titles
+2022-07-27 19:31:38,525 [AWT-EventQueue-0] INFO  - User selected tab Meta Description
+2022-07-27 19:31:54,003 [AWT-EventQueue-0] INFO  - User selected tab Meta Keywords
+2022-07-27 19:32:01,966 [AWT-EventQueue-0] INFO  - User selected tab H1
+2022-07-27 19:32:31,761 [AWT-EventQueue-0] INFO  - User selected tab H2
+2022-07-27 19:32:32,416 [AWT-EventQueue-0] INFO  - User selected tab Images
+2022-07-27 19:32:32,924 [AWT-EventQueue-0] INFO  - User selected tab Directives
+2022-07-27 19:32:33,385 [AWT-EventQueue-0] INFO  - User selected tab AJAX
+2022-07-27 19:32:33,883 [AWT-EventQueue-0] INFO  - User selected tab Custom
+2022-07-27 19:32:34,410 [AWT-EventQueue-0] INFO  - User selected tab Analytics
+2022-07-27 19:32:35,409 [AWT-EventQueue-0] INFO  - User selected tab Search Console
+2022-07-27 19:32:36,953 [AWT-EventQueue-0] INFO  - User selected tab External
+2022-07-27 19:32:47,130 [AWT-EventQueue-0] INFO  - User selected tab Protocol
+2022-07-27 19:32:59,519 [AWT-EventQueue-0] INFO  - EDT latency of 109 > 80 ms, slowing down
+2022-07-27 19:32:59,660 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:41:46,112 [AWT-EventQueue-0] INFO  - EDT latency of 587 > 80 ms, slowing down
+2022-07-27 19:41:46,276 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:41:49,957 [AWT-EventQueue-0] INFO  - EDT latency of 427 > 80 ms, slowing down
+2022-07-27 19:41:50,281 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:42:28,076 [AWT-EventQueue-0] INFO  - EDT latency of 481 > 80 ms, slowing down
+2022-07-27 19:42:28,347 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:50:38,696 [AWT-EventQueue-0] INFO  - EDT latency of 774 > 80 ms, slowing down
+2022-07-27 19:50:38,925 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 19:50:43,523 [AWT-EventQueue-0] INFO  - EDT latency of 591 > 80 ms, slowing down
+2022-07-27 19:50:43,684 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 21:05:37,873 [AWT-EventQueue-0] INFO  - EDT latency of 472 > 80 ms, slowing down
+2022-07-27 21:05:38,151 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 21:05:41,604 [AWT-EventQueue-0] INFO  - EDT latency of 202 > 80 ms, slowing down
+2022-07-27 21:05:41,902 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 21:12:09,844 [AWT-EventQueue-0] INFO  - EDT latency of 326 > 80 ms, slowing down
+2022-07-27 21:12:10,018 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 21:24:40,207 [AWT-EventQueue-0] INFO  - EDT latency of 356 > 80 ms, slowing down
+2022-07-27 21:24:40,352 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 21:24:43,950 [AWT-EventQueue-0] INFO  - EDT latency of 93 > 80 ms, slowing down
+2022-07-27 21:24:44,107 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 22:15:26,320 [AWT-EventQueue-0] INFO  - EDT latency of 541 > 80 ms, slowing down
+2022-07-27 22:15:26,529 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 22:38:01,918 [AWT-EventQueue-0] INFO  - EDT latency of 424 > 80 ms, slowing down
+2022-07-27 22:38:02,244 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 23:08:15,692 [AWT-EventQueue-0] INFO  - EDT latency of 797 > 80 ms, slowing down
+2022-07-27 23:08:15,895 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-27 23:09:11,887 [AWT-EventQueue-0] INFO  - EDT latency of 916 > 80 ms, slowing down
+2022-07-27 23:09:11,972 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 00:00:03,706 [AWT-EventQueue-0] INFO  - EDT latency of 737 > 80 ms, slowing down
+2022-07-28 00:00:03,969 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 00:15:00,608 [AWT-EventQueue-0] INFO  - EDT latency of 240 > 80 ms, slowing down
+2022-07-28 00:15:00,869 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 00:35:29,456 [AWT-EventQueue-0] INFO  - EDT latency of 475 > 80 ms, slowing down
+2022-07-28 00:35:29,732 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:01:40,889 [AWT-EventQueue-0] INFO  - EDT latency of 913 > 80 ms, slowing down
+2022-07-28 01:01:40,978 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:19:25,882 [AWT-EventQueue-0] INFO  - EDT latency of 230 > 80 ms, slowing down
+2022-07-28 01:19:26,153 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:19:53,015 [AWT-EventQueue-0] INFO  - EDT latency of 329 > 80 ms, slowing down
+2022-07-28 01:19:53,187 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:31:50,772 [AWT-EventQueue-0] INFO  - EDT latency of 790 > 80 ms, slowing down
+2022-07-28 01:31:50,984 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:32:22,995 [AWT-EventQueue-0] INFO  - EDT latency of 970 > 80 ms, slowing down
+2022-07-28 01:32:23,277 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:32:42,315 [AWT-EventQueue-0] INFO  - EDT latency of 262 > 80 ms, slowing down
+2022-07-28 01:32:42,553 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 01:32:49,425 [AWT-EventQueue-0] INFO  - EDT latency of 359 > 80 ms, slowing down
+2022-07-28 01:32:49,567 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 03:34:08,929 [AWT-EventQueue-0] INFO  - EDT latency of 1313 > 80 ms, slowing down
+2022-07-28 03:34:09,117 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 12:48:47,204 [AWT-EventQueue-0] INFO  - EDT latency of 1139 > 80 ms, slowing down
+2022-07-28 12:48:47,317 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 13:08:58,608 [AWT-EventQueue-0] INFO  - EDT latency of 893 > 80 ms, slowing down
+2022-07-28 13:08:58,717 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 13:59:23,030 [AWT-EventQueue-0] INFO  - EDT latency of 327 > 80 ms, slowing down
+2022-07-28 13:59:23,204 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 14:00:00,946 [AWT-EventQueue-0] INFO  - EDT latency of 198 > 80 ms, slowing down
+2022-07-28 14:00:01,250 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 16:05:39,739 [AWT-EventQueue-0] INFO  - EDT latency of 1024 > 80 ms, slowing down
+2022-07-28 16:05:39,966 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 16:07:27,488 [AWT-EventQueue-0] INFO  - EDT latency of 826 > 80 ms, slowing down
+2022-07-28 16:07:27,664 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 16:41:59,859 [AWT-EventQueue-0] INFO  - EDT latency of 537 > 80 ms, slowing down
+2022-07-28 16:42:00,073 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 16:42:04,604 [AWT-EventQueue-0] INFO  - EDT latency of 275 > 80 ms, slowing down
+2022-07-28 16:42:04,830 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 17:04:05,034 [AWT-EventQueue-0] INFO  - EDT latency of 637 > 80 ms, slowing down
+2022-07-28 17:04:05,149 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 18:18:49,281 [AWT-EventQueue-0] INFO  - EDT latency of 289 > 80 ms, slowing down
+2022-07-28 18:18:49,493 [AWT-EventQueue-0] INFO  - EDT latency of 1 < 80 ms, speeding up
+2022-07-28 18:26:14,739 [AWT-EventQueue-0] INFO  - EDT latency of 297 > 80 ms, slowing down
+2022-07-28 18:26:14,942 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 19:57:09,531 [AWT-EventQueue-0] INFO  - EDT latency of 234 > 80 ms, slowing down
+2022-07-28 19:57:09,798 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 20:03:33,749 [AWT-EventQueue-0] INFO  - EDT latency of 87 > 80 ms, slowing down
+2022-07-28 20:03:33,912 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 20:38:08,951 [AWT-EventQueue-0] INFO  - EDT latency of 583 > 80 ms, slowing down
+2022-07-28 20:38:09,119 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 20:38:13,851 [AWT-EventQueue-0] INFO  - EDT latency of 476 > 80 ms, slowing down
+2022-07-28 20:38:14,126 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 20:38:21,175 [AWT-EventQueue-0] INFO  - EDT latency of 789 > 80 ms, slowing down
+2022-07-28 20:38:21,387 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-28 21:18:02,852 [AWT-EventQueue-0] INFO  - EDT latency of 827 > 80 ms, slowing down
+2022-07-28 21:18:03,277 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 01:47:24,180 [AWT-EventQueue-0] INFO  - EDT latency of 564 > 80 ms, slowing down
+2022-07-29 01:47:24,368 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 08:39:32,531 [AWT-EventQueue-0] INFO  - EDT latency of 531 > 80 ms, slowing down
+2022-07-29 08:39:32,752 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 10:09:08,390 [AWT-EventQueue-0] INFO  - EDT latency of 1226 > 80 ms, slowing down
+2022-07-29 10:09:08,664 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 10:09:09,738 [AWT-EventQueue-0] INFO  - EDT latency of 573 > 80 ms, slowing down
+2022-07-29 10:09:09,915 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 11:16:28,634 [AWT-EventQueue-0] INFO  - EDT latency of 866 > 80 ms, slowing down
+2022-07-29 11:16:28,768 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 11:19:06,242 [AWT-EventQueue-0] INFO  - EDT latency of 445 > 80 ms, slowing down
+2022-07-29 11:19:06,549 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 11:44:21,138 [AWT-EventQueue-0] INFO  - EDT latency of 572 > 80 ms, slowing down
+2022-07-29 11:44:21,317 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 11:51:14,739 [AWT-EventQueue-0] INFO  - EDT latency of 871 > 80 ms, slowing down
+2022-07-29 11:51:14,869 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 11:51:20,530 [AWT-EventQueue-0] INFO  - EDT latency of 652 > 80 ms, slowing down
+2022-07-29 11:51:20,629 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:02:29,105 [AWT-EventQueue-0] INFO  - EDT latency of 705 > 80 ms, slowing down
+2022-07-29 12:02:29,401 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:31:38,669 [AWT-EventQueue-0] INFO  - EDT latency of 560 > 80 ms, slowing down
+2022-07-29 12:31:38,860 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:31:42,602 [AWT-EventQueue-0] INFO  - EDT latency of 488 > 80 ms, slowing down
+2022-07-29 12:31:42,864 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:32:07,324 [AWT-EventQueue-0] INFO  - EDT latency of 187 > 80 ms, slowing down
+2022-07-29 12:32:07,638 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:44:42,276 [AWT-EventQueue-0] INFO  - EDT latency of 503 > 80 ms, slowing down
+2022-07-29 12:44:42,524 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:53:16,793 [AWT-EventQueue-0] INFO  - EDT latency of 392 > 80 ms, slowing down
+2022-07-29 12:53:16,902 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 12:53:20,709 [AWT-EventQueue-0] INFO  - EDT latency of 303 > 80 ms, slowing down
+2022-07-29 12:53:20,906 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 13:05:21,327 [AWT-EventQueue-0] INFO  - EDT latency of 414 > 80 ms, slowing down
+2022-07-29 13:05:21,418 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 13:22:29,966 [AWT-EventQueue-0] INFO  - EDT latency of 897 > 80 ms, slowing down
+2022-07-29 13:22:30,070 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 13:50:13,605 [AWT-EventQueue-0] INFO  - EDT latency of 768 > 80 ms, slowing down
+2022-07-29 13:50:13,838 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 13:50:33,172 [AWT-EventQueue-0] INFO  - EDT latency of 316 > 80 ms, slowing down
+2022-07-29 13:50:33,356 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 13:52:45,193 [AWT-EventQueue-0] INFO  - EDT latency of 356 > 80 ms, slowing down
+2022-07-29 13:52:45,337 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:13:47,999 [AWT-EventQueue-0] INFO  - EDT latency of 884 > 80 ms, slowing down
+2022-07-29 14:13:48,116 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:14:05,915 [AWT-EventQueue-0] INFO  - EDT latency of 767 > 80 ms, slowing down
+2022-07-29 14:14:06,148 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:15:57,133 [AWT-EventQueue-0] INFO  - EDT latency of 802 > 80 ms, slowing down
+2022-07-29 14:15:57,331 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:20:52,749 [AWT-EventQueue-0] INFO  - EDT latency of 1389 > 80 ms, slowing down
+2022-07-29 14:20:52,862 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:20:57,761 [AWT-EventQueue-0] INFO  - EDT latency of 393 > 80 ms, slowing down
+2022-07-29 14:20:57,868 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:21:05,498 [AWT-EventQueue-0] INFO  - EDT latency of 1120 > 80 ms, slowing down
+2022-07-29 14:21:05,630 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:21:25,508 [AWT-EventQueue-0] INFO  - EDT latency of 1105 > 80 ms, slowing down
+2022-07-29 14:21:25,654 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:45:41,389 [AWT-EventQueue-0] INFO  - EDT latency of 532 > 80 ms, slowing down
+2022-07-29 14:45:41,608 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:45:46,369 [AWT-EventQueue-0] INFO  - EDT latency of 505 > 80 ms, slowing down
+2022-07-29 14:45:46,615 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 14:45:50,090 [AWT-EventQueue-0] INFO  - EDT latency of 219 > 80 ms, slowing down
+2022-07-29 14:45:50,373 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 15:32:43,928 [AWT-EventQueue-0] INFO  - EDT latency of 296 > 80 ms, slowing down
+2022-07-29 15:32:44,144 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 16:02:00,739 [AWT-EventQueue-0] INFO  - EDT latency of 933 > 80 ms, slowing down
+2022-07-29 16:02:01,059 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 16:02:15,274 [AWT-EventQueue-0] INFO  - EDT latency of 446 > 80 ms, slowing down
+2022-07-29 16:02:15,579 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 16:23:08,344 [AWT-EventQueue-0] INFO  - EDT latency of 1223 > 80 ms, slowing down
+2022-07-29 16:23:08,625 [AWT-EventQueue-0] INFO  - EDT latency of 0 < 80 ms, speeding up
+2022-07-29 16:23:09,305 [AWT-EventQueue-0] INFO  - Main window closed
+2022-07-29 16:23:09,307 [exitlogger] INFO  - Application Exited

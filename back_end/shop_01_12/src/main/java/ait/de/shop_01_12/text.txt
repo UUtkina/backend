@@ -252,7 +252,7 @@
       "product_id": 12,
       "count": 3
   }
-  Method: GET
+  Method: POST
         @GetMapping(api/users/{user_id}/cart/change)
           public CartDto getProduct(@RequestBody() CartChangeDto request)
 
